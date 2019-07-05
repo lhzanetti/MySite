@@ -1,0 +1,13 @@
+mysite/mysite/core/__pycache__/__init__.cpython-37.pyc
+mysite/mysite/core/__pycache__/admin.cpython-37.pyc
+mysite/mysite/core/__pycache__/models.cpython-37.pyc
+mysite/mysite/core/__pycache__/urls.cpython-37.pyc
+mysite/mysite/core/migrations/__pycache__/__init__.cpython-37.pyc
+mysite/mysite/core/__pycache__/views.cpython-37.pyc
+
+mysite/db.sqlite3
+mysite/mysite/__pycache__/wsgi.cpython-37.pyc
+mysite/mysite/__pycache__/__init__.cpython-37.pyc
+*.pyc
+*.__pycache__
+*.sqlite3
